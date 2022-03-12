@@ -1,2 +1,4 @@
-# cs50-harvard
-My solutions to the PSETs given in Harvard's Introduction to Computer Science course.
+# Harvard's CS50 (Introduction to Computer Science)
+
+Here 
+
