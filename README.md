@@ -74,7 +74,33 @@ A program that recovers JPEGs from a forensic image.
 
 ![recover](https://user-images.githubusercontent.com/100543895/158596966-8956523e-b71e-4fa6-aeb6-1b217478c59f.png)
 
-WEEK 5 - 
+WEEK 5 - inheritance.c
+
+Simulate the inheritance of blood types for each member of a family.
+
+![inheritance](https://user-images.githubusercontent.com/100543895/158597338-d654c14c-b710-49e0-ad98-9740f7e5aaf9.png)
+
+WEEK 5 - speller.c
+
+A program that spell-checks a file using a hash table.
+
+![speller](https://user-images.githubusercontent.com/100543895/158597518-26ff2b92-4bb4-4878-ab0d-f9df2ebc5f2c.png)
+
+WEEK 6 - tournament.py
+
+A program that runs simulations of the FIFA World Cup.
+
+![tournament](https://user-images.githubusercontent.com/100543895/158597862-ad4a57c2-9813-4995-903e-bde628727862.png)
 
 
+WEEK 6 - dna.py
+A program that identifies a person with their DNA using Short Tandem Repeats (STRs).
+
+![dna](https://user-images.githubusercontent.com/100543895/158598094-a7a1c2ad-2b16-4727-8913-f26390c4967f.png)
+![dna1](https://user-images.githubusercontent.com/100543895/158598119-b24b694c-e3f1-4dd7-a3a9-2429438f9e47.png)
+
+WEEK 6 - readability.py
+A program that computes the approximate grade level needed to comprehend some text.
+
+![readability](https://user-images.githubusercontent.com/100543895/158598350-07b16b0d-9e91-4c92-8690-f15623ab4d42.png)
 
