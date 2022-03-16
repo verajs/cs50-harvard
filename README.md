@@ -1,4 +1,4 @@
-# Harvard's CS50 (Introduction to Computer Science) solutions
+# Harvard's CS50 (Introduction to Computer Science) PSET explanations
 
 WEEK 1 - mario.c
 
@@ -11,7 +11,6 @@ WEEK 1 - cash.c
 A program that prompts the user for the number of cents that a customer is owed and then prints the smallest number of coins with which that change can be made.
 
 ![cash](https://user-images.githubusercontent.com/100543895/158594886-5f64fecf-6cb7-4ee7-aac5-5c4280aa3bc2.png)
-
 
 WEEK 1 - credit.c
 
@@ -30,7 +29,6 @@ WEEK 2 - caesar.c
 A program that encrypts messages using Caesar’s cipher.
 
 ![caesar](https://user-images.githubusercontent.com/100543895/158595151-46a36593-b377-4d7e-9842-938d27967c72.png)
-
 
 WEEK 2 - substitution.c
 
@@ -104,3 +102,20 @@ A program that computes the approximate grade level needed to comprehend some te
 
 ![readability](https://user-images.githubusercontent.com/100543895/158598350-07b16b0d-9e91-4c92-8690-f15623ab4d42.png)
 
+WEEK 7 - SQL - songs
+
+SQL queries to answer questions about a Spotify database.
+
+WEEK 7 - SQL - movies
+
+Write SQL queries to answer questions about IMDB's movies database.
+
+WEEK 7 - SQL - fiftyville
+
+Write SQL queries to solve a mystery. (Similar to SQL City.)
+
+WEEK 8 - trivia
+
+A trivia webpage that lets users answer questions
+
+![trivia](https://user-images.githubusercontent.com/100543895/158599433-2f9d6ea8-4171-4401-af88-c9f8eaf4a81d.png)
