@@ -38,3 +38,20 @@ A program that implements a substitution cipher.
 
 ![substitution](https://user-images.githubusercontent.com/100543895/158595338-900da9a4-ffa5-41a7-b165-7daf9f4be1f2.png)
 
+WEEK 3 - plurality.c
+
+A program that runs a plurality election
+
+![plurality](https://user-images.githubusercontent.com/100543895/158595659-1628c704-61ea-479d-98e2-736017ef2e97.png)
+
+WEEK 3 - runoff.c
+
+A program that runs a runoff election.
+
+![runoff](https://user-images.githubusercontent.com/100543895/158595892-f888e378-1e82-4393-a451-633b616a3a08.png)
+
+WEEK 3 - tideman.c 
+
+A program that runs a Tideman election
+
+![tideman](https://user-images.githubusercontent.com/100543895/158595911-f4e4b03f-3404-4019-9419-9fec3009d4a7.png)
