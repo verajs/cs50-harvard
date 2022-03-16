@@ -6,4 +6,8 @@ Towards the end of World 1-1 in Nintendo’s Super Mario Brothers, Mario must as
 
 ![mario](https://user-images.githubusercontent.com/100543895/158593257-8208ff79-fd5a-4cb8-bc2b-2cee31e0457c.png)
 
+WEEK 1 - credit.c
 
+A program that prompts the user for a credit card number and then reports (via printf) whether it is a valid American Express, MasterCard, or Visa card number, per the definitions of each’s format using Luhn's Algorithm.
+
+![credit](https://user-images.githubusercontent.com/100543895/158594169-5b4b670a-2d41-40d3-8e27-f5dec8470e97.png)
