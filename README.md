@@ -97,11 +97,6 @@ A program that identifies a person with their DNA using Short Tandem Repeats (ST
 ![dna](https://user-images.githubusercontent.com/100543895/158598094-a7a1c2ad-2b16-4727-8913-f26390c4967f.png)
 ![dna1](https://user-images.githubusercontent.com/100543895/158598119-b24b694c-e3f1-4dd7-a3a9-2429438f9e47.png)
 
-WEEK 6 - readability.py
-A program that computes the approximate grade level needed to comprehend some text.
-
-![readability](https://user-images.githubusercontent.com/100543895/158598350-07b16b0d-9e91-4c92-8690-f15623ab4d42.png)
-
 WEEK 7 - SQL - songs
 
 SQL queries to answer questions about a Spotify database.
