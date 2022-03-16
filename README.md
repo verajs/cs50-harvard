@@ -11,3 +11,9 @@ WEEK 1 - credit.c
 A program that prompts the user for a credit card number and then reports (via printf) whether it is a valid American Express, MasterCard, or Visa card number, per the definitions of each’s format using Luhn's Algorithm.
 
 ![credit](https://user-images.githubusercontent.com/100543895/158594169-5b4b670a-2d41-40d3-8e27-f5dec8470e97.png)
+
+WEEK 2 - scrabble.c 
+
+A program that determines the winner of a short scrabble-like game, where two players each enter their word, and the higher scoring player wins.
+
+![scrabble](https://user-images.githubusercontent.com/100543895/158594602-8e03c61c-5ecb-4315-b36d-1dbaaced6da2.png)
