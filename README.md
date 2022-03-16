@@ -55,3 +55,26 @@ WEEK 3 - tideman.c
 A program that runs a Tideman election
 
 ![tideman](https://user-images.githubusercontent.com/100543895/158595911-f4e4b03f-3404-4019-9419-9fec3009d4a7.png)
+
+WEEK 4 - volume.c
+
+A program that modifies the volume of an audio file. Where INPUT.wav is the name of an original audio file and OUTPUT.wav is the name of an audio file with a volume that has been scaled by the given factor (e.g., 2.0).
+
+![volume](https://user-images.githubusercontent.com/100543895/158596400-20ad227b-ce24-4032-9942-39f1076576c2.png)
+
+WEEK 4 - filter.c
+
+A program that applies filters to BMPs, including grayscale, reflection, blur and edge detection using Sobel operator.
+
+![filter](https://user-images.githubusercontent.com/100543895/158596758-1578e299-22f5-416c-a2f1-8f66d0121b4e.png)
+
+WEEK 4 - recover.c
+
+A program that recovers JPEGs from a forensic image.
+
+![recover](https://user-images.githubusercontent.com/100543895/158596966-8956523e-b71e-4fa6-aeb6-1b217478c59f.png)
+
+WEEK 5 - 
+
+
+
