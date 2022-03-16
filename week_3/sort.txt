@@ -1,0 +1,12 @@
+sort1 uses: BUBBLE SORT
+
+How do you know?: It has the lowest omega value out of the other sorts, and it won in sorted 50000 against the other sorts.
+
+sort2 uses: MERGE SORT
+
+How do you know?: It had the fastest sorting time in all of the cases except for few exceptions.
+
+sort3 uses: SELECTION SORT
+
+How do you know?: Because its O and Omega are the same, in each iteration of the same amount of numbers, sort3 takes about the same amount of time.
+E.X: Sorted 5000, Reversed5000 and Random5000
