@@ -1,4 +1,4 @@
-# Harvard's CS50 (Introduction to Computer Science) PSET explanations
+# Harvard's CS50 (Introduction to Computer Science) PSETs preview
 
 
 ## WEEK 1 - mario.c
