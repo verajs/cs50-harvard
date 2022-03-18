@@ -115,3 +115,9 @@ Write SQL queries to solve a mystery. (Similar to SQL City.)
 A trivia webpage that lets users answer questions
 
 ![trivia](https://user-images.githubusercontent.com/100543895/158599433-2f9d6ea8-4171-4401-af88-c9f8eaf4a81d.png)
+
+# HEADER 1
+
+## HEADER 2
+
+### HEADER 3
